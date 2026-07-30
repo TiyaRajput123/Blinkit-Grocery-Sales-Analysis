@@ -233,9 +233,7 @@ Blinkit-Grocery-Sales-Analysis/
 
 Aspiring Data Analyst | Python | SQL | PostgreSQL | Power BI
 
-LinkedIn: *Add your profile*
 
-GitHub: *Add your GitHub profile*
 
 ---
 
